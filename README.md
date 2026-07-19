@@ -59,6 +59,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/adil618/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/adil618/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -72,4 +73,16 @@
 |  |
 | ------- |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/adil618/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+## String
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/adil618/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Stack
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/adil618/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/adil618/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
